@@ -1,3 +1,11 @@
+Step 1:
+Set your current working directory to "Toxic-Comment-Classification" folder
+Use this code:
+import os
+os.chdir('folder path')
+
+
+Step 2:
 Run in the following sequence:
 
 1. Toxic Comment Classification-toxic.ipynb
@@ -8,7 +16,10 @@ Run in the following sequence:
 6. Toxic Comment Classification-identity_hate.ipynb
 
 
-Predicted probabilities are in the file named "sample_submission.csv" present in the main folder.
 
-If any problem is found in datasets(train.csv and test.csv) then the datasets can be directly downloaded from kaggle Toxic comment classification challenge. Download from the below link:
+NOTE:
+
+1. Predicted probabilities are in the file named "sample_submission.csv" present in the main folder.
+
+2. If any problem is found in datasets(train.csv and test.csv) then the datasets can be directly downloaded from kaggle Toxic comment classification challenge. Download from the below link:
 https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data
