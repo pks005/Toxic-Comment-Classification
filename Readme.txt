@@ -9,3 +9,6 @@ Run in the following sequence:
 
 
 Predicted probabilities are in the file named "sample_submission.csv" present in the main folder.
+
+If any problem is found in datasets(train.csv and test.csv) then the datasets can be directly downloaded from kaggle Toxic comment classification challenge. Download from the below link:
+https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data
